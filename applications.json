@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1737300000003",
+    "company": "TechCorp Inc.",
+    "jobLink": "https://techcorp.com/careers/software-engineer",
+    "location": "San Francisco, CA",
+    "jobType": "Remote",
+    "status": "Applied",
+    "appliedAt": "2026-01-19T10:30:00.000Z"
+  },
+  {
+    "id": "1737300000004",
+    "company": "DataSys Solutions",
+    "jobLink": "https://datasys.com/jobs/data-analyst",
+    "location": "New York, NY",
+    "jobType": "Onsite",
+    "status": "Interview Call",
+    "appliedAt": "2026-01-19T12:00:00.000Z"
+  },
+  {
+    "id": "1737300000005",
+    "company": "WebFlow Agency",
+    "jobLink": "https://webflow.com/careers/frontend-developer",
+    "location": "Austin, TX",
+    "jobType": "Hybrid",
+    "status": "Rejected",
+    "appliedAt": "2026-01-19T15:00:00.000Z"
+  },
+  {
+    "id": "1737300000010",
+    "company": "CloudTech Systems",
+    "jobLink": "https://cloudtech.com/jobs/devops-engineer",
+    "location": "Seattle, WA",
+    "jobType": "Remote",
+    "status": "Applied",
+    "appliedAt": "2026-01-19T16:30:00.000Z"
+  },
+  {
+    "id": "1737300000011",
+    "company": "MobileFirst Apps",
+    "jobLink": "https://mobilefirst.com/careers/react-native-developer",
+    "location": "Los Angeles, CA",
+    "jobType": "Onsite",
+    "status": "Selected",
+    "appliedAt": "2026-01-19T18:00:00.000Z"
+  },
+  {
+    "id": "1737300000012",
+    "company": "AI Innovations",
+    "jobLink": "https://aiinnovations.com/jobs/machine-learning-engineer",
+    "location": "Boston, MA",
+    "jobType": "Hybrid",
+    "status": "Applied",
+    "appliedAt": "2026-01-19T19:30:00.000Z"
+  },
+  {
+    "id": "1737300000013",
+    "company": "StartupXYZ",
+    "jobLink": "https://startupxyz.com/careers/full-stack-developer",
+    "location": "Denver, CO",
+    "jobType": "Remote",
+    "status": "Interview Call",
+    "appliedAt": "2026-01-19T21:00:00.000Z"
+  }
+]
